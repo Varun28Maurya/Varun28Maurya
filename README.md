@@ -58,7 +58,6 @@ System Design, Real-Time Systems, Role-Based Access Control (RBAC), Backend Arch
 
 AI-powered construction field management system built for real-world site challenges.
 
-**Recognition**  
 2× First Prize | 1× Second Runner-Up | 5× Finalist across multiple hackathons  
 
 **Overview**  
@@ -73,27 +72,9 @@ Designed to solve inefficiencies in construction projects caused by poor visibil
 
 ---
 
-## Achievements
-
-- Secured 2nd Place in Pitch Arena, TCET E-Summit 2026 for building and presenting a complete end-to-end MVP  
-- Conducted a Finance and Marketing workshop at TCET E-Summit 2026  
-- Two-time Hackathon Finalist for problem-solving and technical execution  
-- Secured 3rd Place in a college-level cultural fest  
-
----
-
 ## Professional Skills
 
 Leadership, Public Speaking, Problem Solving, Team Collaboration  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Varun28Maurya&show_icons=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Varun28Maurya" />
-</p>
 
 ---
 
